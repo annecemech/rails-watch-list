@@ -2,4 +2,4 @@ Solution of the two-day [Watch List challenge](https://github.com/lewagon/fullst
 
 The branch `day-one` is the solution of the challenge at the end of the first day and the branch `day-two` is the complete solution of this two-day challenge.
 
-Ici je mets à jour mon readme.
+J'ajoute du texte ici.
